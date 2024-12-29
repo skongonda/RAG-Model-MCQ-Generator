@@ -1,0 +1,17 @@
+chromadb
+sentence_transformers
+langchain
+langchain-community
+langchain-openai
+openai
+streamlit
+tiktoken
+python-dotenv
+opencv-python
+pandas
+numpy
+seaborn
+matplotlib
+pypdf
+
+-e .
